@@ -1,0 +1,17 @@
+{
+  "name": "refresh-to-top",
+  "version": "1.0.0",
+  "description": "A tool that make it return to top when refreshing the current page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "refresh",
+    "top",
+    "document",
+    "page"
+  ],
+  "author": "andylovesapple666@icloud.com",
+  "license": "MPL-2.0"
+}
