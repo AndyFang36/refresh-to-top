@@ -1,6 +1,6 @@
 /**
  * Making document return to top when refreshing the current page.
- * @author <a mailto:andylovesapple666@icloud.com>Andy Fang</a>
+ * @author <a href=mailto:andylovesapple666@icloud.com>Andy Fang</a>
  */
 export const refreshToTop = () => {
     window.addEventListener("beforeunload", () => {
