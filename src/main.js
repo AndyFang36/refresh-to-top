@@ -6,8 +6,8 @@
  * @licence MPL-2.0
  */
 
-import {useLocation} from "node:module/react-router-dom";
-import {useEffect} from "node:module/react";
+import {useLocation} from "react-router-dom";
+import {useEffect} from "react";
 
 const refreshToTop = () => {
   window.addEventListener("unload", () => {
